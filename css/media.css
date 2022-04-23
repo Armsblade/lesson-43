@@ -1,0 +1,36 @@
+@media screen and (max-width: 1280px) {
+  .main--items2 {
+    margin-left: 6px;
+  }
+  .main--items3 {
+    margin-right: 15px;
+    margin-top: 30px;
+  }
+  .main--items6 {
+    margin-left: 6px;
+  }
+}
+
+@media screen and (max-width: 1255px) {
+  .main--items6 {
+    margin-left: 10px;
+  }
+  .main--items3 {
+    margin-right: 26px;
+  }
+  .main--items5 {
+    margin-right: 16px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 425px) {
+}
+
+@media screen and (max-width: 375px) {
+}
+
+@media screen and (max-width: 320px) {
+}
